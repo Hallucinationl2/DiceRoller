@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\DiceRoller\bin\Debug\net9.0\DiceRoller.exe
+C:\Users\User\Desktop\DiceRoller\bin\Debug\net9.0\DiceRoller.deps.json
+C:\Users\User\Desktop\DiceRoller\bin\Debug\net9.0\DiceRoller.runtimeconfig.json
+c:\Users\User\Desktop\DiceRoller\bin\Debug\net9.0\DiceRoller.dll
+c:\Users\User\Desktop\DiceRoller\bin\Debug\net9.0\DiceRoller.pdb
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.AssemblyInfo.cs
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.dll
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\refint\DiceRoller.dll
+c:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.pdb
+C:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\DiceRoller.genruntimeconfig.cache
+C:\Users\User\Desktop\DiceRoller\obj\Debug\net9.0\ref\DiceRoller.dll
